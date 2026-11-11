@@ -9,7 +9,7 @@ A small project-management web app: sign up, create projects, and manage tasks i
 | Frontend | React + Next.js 14 (App Router) |
 | State | Redux Toolkit (`auth`, `projects`, `tasks` slices) |
 | Backend | Next.js API route handlers (Node.js) — RESTful endpoints |
-| Database | MongoDB (local or Atlas) via Mongoose |
+| Database | MongoDB ( Atlas) via Mongoose |
 | Auth | JWT (7 day expiry), passwords hashed with bcrypt |
 
 ## Features
